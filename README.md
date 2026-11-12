@@ -39,6 +39,8 @@ Instead of dragging clips on a timeline, every edit here is a script: the timeli
 - Paths at the top of each script point to the author's Windows folders; change `SRC`, `OUT`, `DATA` and `BIN` to run them yourself.
 - Companion Claude Code skill: [gym-luxury-edit](https://github.com/hadidammam505-web/gym-luxury-edit).
 
+> **Want this as a reusable tool?** The core ideas here (cut detection, beat alignment, frame-exact rendering with push/punch zooms, flashes and dark grades) are packaged as [beatcut](https://github.com/hadidammam505-web/beatcut), an installable CLI with tests.
+
 ---
 
 ## بالعربي
